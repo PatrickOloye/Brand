@@ -38,6 +38,7 @@ const Hero = () => {
           src="/n2.png"
           // src="/m15.jpeg"
           className="order-first  rounded-br-3xl  rounded-tl-3xl md:order-last"
+          alt=""
           width={700}
           height={50}
         />
