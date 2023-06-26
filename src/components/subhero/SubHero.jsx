@@ -41,8 +41,8 @@ const SubHero = () => {
             professionals who are passionate about education and committed to
             empowering students on their path to success. We offer a
             comprehensive range of academic loan solutions tailored to meet your
-            specific needs, whether you're a student embarking on your
-            undergraduate studies, pursuing a master's degree, or engaging in
+            specific needs, whether you are a student embarking on your
+            undergraduate studies, pursuing a master degree, or engaging in
             doctoral research. With our extensive network of partner
             universities around the world, we strive to connect you with
             renowned educational institutions that align with your academic
