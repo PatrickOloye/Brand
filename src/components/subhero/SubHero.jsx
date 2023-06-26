@@ -2,26 +2,6 @@ import React from 'react';
 
 const SubHero = () => {
   return (
-    // <div className="flex flex-col items-center justify-center h-screen mx-36">
-    //   <h1 className="font-bold text-transparent-sky-blue text-cyan-400 text-5xl">
-    //     School Loans
-    //   </h1>
-    //   <h2 className="text-2xl font-semibold font-sans">
-    //     Understanding Your Options
-    //   </h2>
-    //   <p className="text-center text-xl mt-8 font-sans">
-    //     Are you considering financing your education with a school loan? It is
-    //     important to be informed about your options. From federal loans to
-    //     private lenders, there are various avenues to explore.
-    //   </p>
-    //   <p className="text-center mt-4 font-sans text-xl">
-    //     At XYZ University, we strive to provide accessible and affordable
-    //     education for all students. Our financial aid office can assist you in
-    //     navigating the school loan process, ensuring that you make well-informed
-    //     decisions.
-    //   </p>
-    // </div>
-
     <section className="body-font text-gray-600">
       <div className="container mx-auto px-5 py-24">
         <div className="mx-auto w-full text-center lg:w-3/4 xl:w-1/2">
